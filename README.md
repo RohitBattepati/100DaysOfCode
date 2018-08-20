@@ -1,5 +1,5 @@
 # Day 82 
-adjacentElementsProduct - Python - CodeFights
+adjacentElementsProduct - Python - CodeFights  <br/>
 Peak Finding Problem | Divide and Conquer Algorithm
 
 # Day 81 
