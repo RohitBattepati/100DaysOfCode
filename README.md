@@ -1,3 +1,6 @@
+# Day 82 
+adjacentElementsProduct - Python - CodeFights
+Peak Finding Problem | Divide and Conquer Algorithm
 
 # Day 81 
 Default Destructing Arrays - ES6 @Udacity
