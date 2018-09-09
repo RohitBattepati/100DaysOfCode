@@ -1,6 +1,10 @@
 # Day 89
+Java - @Codecademy 
+
+Big O introduction - CTCS
 
 # Day 88
+Continued Advanced JSX - @Codecademy 
 
 # Day 87
 React JS - Advanced JSX first - Codecademy
