@@ -1,3 +1,6 @@
+# Day 96
+
+
 # Day 95
 Javascript Section - FreeCodeCamp
 
