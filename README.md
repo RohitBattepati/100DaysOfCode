@@ -1,5 +1,8 @@
-# Day 96
+# Day 97
 
+
+# Day 96
+Completed HTML section - FreeCodeCamp
 
 # Day 95
 Javascript Section - FreeCodeCamp
