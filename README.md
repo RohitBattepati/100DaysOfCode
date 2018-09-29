@@ -1,3 +1,6 @@
+# Day 100
+
+
 # Day 99
 Timing Code - Python Lab - AIPND - Udacity
 
