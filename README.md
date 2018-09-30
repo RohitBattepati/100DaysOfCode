@@ -1,3 +1,7 @@
+# R2 Day 1
+More Lessons Python Lab - Udacity 
+Code Fights Python 
+
 # Day 100
 
 
