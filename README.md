@@ -1,9 +1,13 @@
+# R2 Day 2
+Code Fights - Python 
+Make Array Consecutive 2
+
 # R2 Day 1
 More Lessons Python Lab - Udacity 
 Code Fights Python 
 
 # Day 100
-
+Python Lab - Timing Code Continuation - time() sleep() 
 
 # Day 99
 Timing Code - Python Lab - AIPND - Udacity
