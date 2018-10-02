@@ -1,3 +1,6 @@
+# R2 Day 3
+Command Line Arguments - Python Lab - AIPND - Udacity 
+
 # R2 Day 2
 Code Fights - Python 
 Make Array Consecutive 2
