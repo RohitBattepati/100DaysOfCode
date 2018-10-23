@@ -1,11 +1,18 @@
 
 # R2 Day 7
+Linear Algebra Essentials - Completed Vectors. - AIPND @udacity 
+
 # R2 Day 6
+Completed Matplotlib and Seaborn Part -2  - AIPND @udacity 
+Java - @hackerrank - 3 problems
 
 # R2 Day 5
+Done with Lecture 5 - @cs50  HTTP, HTML , CSS , JS
+Java - @hackerrank - 2 problems
 
 # R2 Day 4
-
+Java - Object Oriented Programming - @Codecademy 
+Matplotlib and Seaborn Part 2 - AIPND - @udacity 
 
 # R2 Day 3
 Command Line Arguments - Python Lab - AIPND - Udacity
