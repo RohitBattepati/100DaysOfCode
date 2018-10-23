@@ -1,29 +1,29 @@
 
 # R2 Day 7
-Linear Algebra Essentials - Completed Vectors. - AIPND @udacity 
+Linear Algebra Essentials - Completed Vectors. - AIPND @udacity <br/>
 
 # R2 Day 6
-Completed Matplotlib and Seaborn Part -2  - AIPND @udacity 
+Completed Matplotlib and Seaborn Part -2  - AIPND @udacity <br/>
 Java - @hackerrank - 3 problems
 
 # R2 Day 5
-Done with Lecture 5 - @cs50  HTTP, HTML , CSS , JS
+Done with Lecture 5 - @cs50  HTTP, HTML , CSS , JS <br/>
 Java - @hackerrank - 2 problems
 
 # R2 Day 4
-Java - Object Oriented Programming - @Codecademy 
+Java - Object Oriented Programming - @Codecademy <br/>
 Matplotlib and Seaborn Part 2 - AIPND - @udacity 
 
 # R2 Day 3
-Command Line Arguments - Python Lab - AIPND - Udacity
+Command Line Arguments - Python Lab - AIPND - Udacity <br/>
 Advanced JSX - React - Codecademy
 
 # R2 Day 2
-Code Fights - Python 
+Code Fights - Python <br/>
 Make Array Consecutive 2
 
 # R2 Day 1
-More Lessons Python Lab - Udacity 
+More Lessons Python Lab - Udacity <br/>
 Code Fights Python 
 
 # Day 100
