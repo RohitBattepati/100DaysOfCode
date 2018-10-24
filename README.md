@@ -1,3 +1,6 @@
+# R2 Day 7
+Started Linear Combination - AIPND @udacity <br/>
+Java Practice - 3 Problems
 
 # R2 Day 7
 Linear Algebra Essentials - Completed Vectors. - AIPND @udacity <br/>
