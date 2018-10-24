@@ -1,4 +1,4 @@
-# R2 Day 7
+# R2 Day 8
 Started Linear Combination - AIPND @udacity <br/>
 Java Practice - 3 Problems
 
