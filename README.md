@@ -1,4 +1,4 @@
-# R2 Day 8
+# R2 Day 9
 Completed Linear Combination - AIPND @udacity <br/>
 
 # R2 Day 8
