@@ -1,7 +1,8 @@
 # R2 Day 11
+Completed React Components - @Codecademy
 
 # R2 Day 10
-
+Completed Advanced JSX - @Codecademy
 
 # R2 Day 9
 Completed Linear Combination - AIPND @udacity <br/>
