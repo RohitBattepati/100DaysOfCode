@@ -1,5 +1,6 @@
 # R2 Day 12
-
+Java Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Java <br/>
+Components Interfacing - React js - @Codecademy 
 
 # R2 Day 11
 Completed React Components - @Codecademy
