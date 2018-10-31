@@ -1,3 +1,7 @@
+# R2 Day 13
+Java Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Java <br/>
+this.props - React js - @Codecademy
+
 # R2 Day 12
 Java Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Java <br/>
 Components Interfacing - React js - @Codecademy 
