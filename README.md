@@ -1,3 +1,9 @@
+#R2 Day 18
+
+# R2 Day 17
+Java Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Java <br/>
+Python Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Python
+
 # R2 Day 16
 Java Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Java <br/>
 Linear Transformation and Matrices - AIPND @udacity
