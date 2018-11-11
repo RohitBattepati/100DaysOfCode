@@ -1,8 +1,8 @@
-#R2 Day 19
+# R2 Day 19
 Completed Vectors Lab - AIPND @udacity
 Java Practice Problems - https://github.com/RohitBattepati/CodingPractice/tree/master/Java 
 
-#R2 Day 18
+# R2 Day 18
 Completed Linear Transformations and Matrices - AIPND @udacity
 
 # R2 Day 17
