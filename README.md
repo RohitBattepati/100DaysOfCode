@@ -1,4 +1,8 @@
+# R2 Day 23
+Introduction to Neural Networks - AIPND - @udacity
+
 # R2 Day 22
+Completed Linear Mapping Lab - AIPND - @udacity
 
 # R2 Day 21
 Completed Linear Transformation Lab - AIPND - @udacity 
