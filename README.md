@@ -1,3 +1,6 @@
+# R2 Day 25 
+
+
 # R2 Day 24 
 Completed Linear Algebra in Neural Networks section - AIPND @udacity 
 
