@@ -1,7 +1,9 @@
 # R2 Day 28
+Introduction to Perceptrons - AIPND - @udacity
 
 # R2 Day 27
-
+Leetcode - Sorting - 1 Problem
+Linear Boundaries, Higher Dimensions - AIPND - @udacity
 
 # R2 Day 26 
 Completed Full Java Track - @Codecademy
