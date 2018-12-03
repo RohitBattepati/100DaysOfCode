@@ -1,3 +1,6 @@
+# R2 Day 30
+Perceptraons as Logical Operators - AIPND - @udacity
+
 # R2 Day 29
 Leetcode - Sorting - Intersection Of Two Arrays
 
