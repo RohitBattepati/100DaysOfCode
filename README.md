@@ -1,3 +1,6 @@
+# R2 Day 31
+
+
 # R2 Day 30
 Perceptraons as Logical Operators - AIPND - @udacity
 
