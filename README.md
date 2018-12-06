@@ -1,5 +1,8 @@
-# R2 Day 31
+# R2 Day 32
+Perceptraon Algorithmm - @udacity - AIPND
 
+# R2 Day 31
+Valid Anagram - @leetcode
 
 # R2 Day 30
 Perceptraons as Logical Operators - AIPND - @udacity
