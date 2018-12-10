@@ -1,5 +1,11 @@
+# R2 Day 34
+Error Functions - @udacity - AIPND
+
+# R2 Day 33
+Non Linear Regions - @udacity - AIPND
+
 # R2 Day 32
-Perceptraon Algorithmm - @udacity - AIPND
+Perceptraon Algorithm - @udacity - AIPND
 
 # R2 Day 31
 Valid Anagram - @leetcode
