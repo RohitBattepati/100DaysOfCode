@@ -1,3 +1,6 @@
+#R2 Day 36
+Log-Loss Error Functions - AIPND - @udacity
+
 # R4 Day 35
 Week 0 - @cs50 Web Programming with JS and Python -@edx
 
