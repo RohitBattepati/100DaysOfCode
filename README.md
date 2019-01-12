@@ -1,3 +1,6 @@
+#R2 Day 37
+Revised Javascript Fundamentals 
+
 #R2 Day 36
 Log-Loss Error Functions - AIPND - @udacity
 
