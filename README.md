@@ -1,3 +1,6 @@
+#R2 Day 38
+Completed @freecodecamp CSS Module
+
 #R2 Day 37
 Revised Javascript Fundamentals 
 
