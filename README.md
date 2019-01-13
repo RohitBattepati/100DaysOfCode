@@ -1,10 +1,10 @@
-#R2 Day 38
+# R2 Day 38
 Completed @freecodecamp CSS Module
 
-#R2 Day 37
+# R2 Day 37
 Revised Javascript Fundamentals 
 
-#R2 Day 36
+# R2 Day 36
 Log-Loss Error Functions - AIPND - @udacity
 
 # R4 Day 35
