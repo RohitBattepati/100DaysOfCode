@@ -1,3 +1,6 @@
+# R2 Day 39
+Completed 2 bites from @pyBites
+
 # R2 Day 38
 Completed @freecodecamp CSS Module
 
