@@ -1,3 +1,24 @@
+# R2 Day 41
+Problem set 0 and 1 ( Hello ) Submitted - @cs50
+ 
+
+forEach , map , filter helper methods done - @udemy  @ste_grider  Course - ES6 
+
+# R2 Day 42
+Lecture 1  - C - Completed
+
+Started ECMAScript course by 
+@ste_grider in @udemy
+ 
+
+# R2 Day 41
+Restarting CS50 once again. 
+
+Lecture 0 - Computational Thinking -  Completed
+
+# R2 Day 40
+Practiced Pattern problems in Python
+
 # R2 Day 39
 Completed 2 bites from @pyBites
 
