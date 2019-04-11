@@ -1,7 +1,49 @@
+# R2 Day 48  
+Completed Week 2 - Python 
+Started Week 3 - SQL 
+
+@cs50's Web Programming with Python and JavaScript - @brianyu28
+ 
+# R2 Day 47  
+Added +5  JavaScript Practice Problems 
+
+Continued Destructuring Use Cases - 
+@udemy @ste_grider's Course - ES6
+
+# R2 Day 46  
+Added More JavaScript Practice Problems Repo 
+
+Destructuring - @udemy @ste_grider's Course - ES6
+
+# R2 Day 45
+JavaScript Practice Problems Repo 
+(link: https://github.com/RohitBattepati/CodingPractice/tree/master/JavaScript)
+
+Arrow Functions, Enhanced Object Literals, Default Function Arguments, Rest and Spread - 
+@udemy's @ste_grider's Course - ES6
+
+# R2 Day 44
+JavaScript Practice Problems Repo 
+(link: https://github.com/RohitBattepati/CodingPractice/tree/master/JavaScript)
+
+Arrow Functions, Enhanced Object Literals, Default Function Arguments, Rest and Spread - 
+@udemy's @ste_grider's Course - ES6
+
+# R2 Day 43
+Problem set 0 and 1 ( Hello ) Submitted . - 
+@cs50
+ 
+forEach , map , filter helper methods done - 
+@udemy @ste_grider Course - ES6
+
+# R2 Day 42
+Lecture 1 - C - Completed
+Started ECMAScript course by 
+@ste_grider in @udemy
+ 
 # R2 Day 41
 Problem set 0 and 1 ( Hello ) Submitted - @cs50
  
-
 forEach , map , filter helper methods done - @udemy  @ste_grider  Course - ES6 
 
 # R2 Day 42
