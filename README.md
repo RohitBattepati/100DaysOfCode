@@ -1,3 +1,25 @@
+# R2 Day 53  
+Completed TypeScript Crash Course by @traversymedia ✅
+Started Angular - The Complete Guide - @maxedapps 
+
+# R2 Day 52  
+React Course by @ste_grider - @udemy
+Section: 10 ✅
+Using Ref's for DOM Access
+
+# R2 Day 51  
+React Course by @ste_grider - @udemy
+Completed Section: 9 ✅
+Building Lists of Records
+
+# R2 Day 50  
+React Course by @ste_grider - @udemy
+Fetching Data using Axios
+
+# R2 Day 49  
+Continued Week 3 - SQL 
+@cs50's Web Programming with Python and JavaScript - @brianyu28
+
 # R2 Day 48  
 Completed Week 2 - Python 
 Started Week 3 - SQL 
