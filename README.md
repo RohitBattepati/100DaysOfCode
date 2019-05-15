@@ -1,3 +1,6 @@
+# R2 Day 55  
+Angualar Crach Course - @traversymedia
+
 # R2 Day 54  
 Angular - The Complete Guide - @maxedapps
 
