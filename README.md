@@ -1,3 +1,9 @@
+# R2 Day 65
+Typecript - JavaBrains Youtube
+
+# R2 Day 64
+Javascript Refresher - Completed playlist of JS Intro - JavaBrains Youtube
+
 # R2 Day 63
 Javascript Refresher - Objects - JavaBrains Youtube
 
