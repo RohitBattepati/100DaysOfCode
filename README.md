@@ -1,3 +1,6 @@
+# R2 Day 66
+TypeScript - Tuples, Implicit Typing, Union, Type Erasure - JavaBrains Youtube
+
 # R2 Day 65
 Typecript - JavaBrains Youtube
 
