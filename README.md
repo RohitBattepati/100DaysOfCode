@@ -1,3 +1,6 @@
+# R2 Day 68
+TypeScript - Classes, Methods, Constructors - JavaBrains Youtube
+
 # R2 Day 67
 NgRx State Management
 
