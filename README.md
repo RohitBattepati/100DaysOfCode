@@ -1,3 +1,6 @@
+# R2 Day 70
+Codewars - Javascript - You only need one
+
 # R2 Day 69
 Asymptotic Analysis - geeks for geeks
 
