@@ -1,3 +1,6 @@
+# R2 Day 71
+Codewars - Javascript - Remove String Spaces
+
 # R2 Day 70
 Codewars - Javascript - You only need one
 
