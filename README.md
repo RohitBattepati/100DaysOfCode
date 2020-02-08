@@ -1,3 +1,6 @@
+# R2 Day 72
+TypeScript - Inheritance and Polymorphism - JavaBrains
+
 # R2 Day 71
 Codewars - Javascript - Remove String Spaces
 
